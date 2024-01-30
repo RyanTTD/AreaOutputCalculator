@@ -11,5 +11,6 @@ SolarPanel[] panels = new[]
 var landArea = 81;
 
 var areaCalculatorHelper = new AreaCalculatorHelper();
+var outcome = areaCalculatorHelper.MaxOutput(panels, landArea);
 
-Console.Write(areaCalculatorHelper.MaxOutput(panels, landArea));
+Console.Write(outcome);
