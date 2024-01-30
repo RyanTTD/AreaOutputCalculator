@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Clients\\TTD\\Clients\\Acumen\\Test\\AreaOutputCalculator\\AreaOutputCalculator.csproj": {}
+    "C:\\Clients\\TTD\\Projects\\AreaOutputCalculator\\AreaOutputCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Clients\\TTD\\Clients\\Acumen\\Test\\AreaOutputCalculator\\AreaOutputCalculator.csproj": {
+    "C:\\Clients\\TTD\\Projects\\AreaOutputCalculator\\AreaOutputCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Clients\\TTD\\Clients\\Acumen\\Test\\AreaOutputCalculator\\AreaOutputCalculator.csproj",
+        "projectUniqueName": "C:\\Clients\\TTD\\Projects\\AreaOutputCalculator\\AreaOutputCalculator.csproj",
         "projectName": "AreaOutputCalculator",
-        "projectPath": "C:\\Clients\\TTD\\Clients\\Acumen\\Test\\AreaOutputCalculator\\AreaOutputCalculator.csproj",
+        "projectPath": "C:\\Clients\\TTD\\Projects\\AreaOutputCalculator\\AreaOutputCalculator.csproj",
         "packagesPath": "C:\\Users\\ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Clients\\TTD\\Clients\\Acumen\\Test\\AreaOutputCalculator\\obj\\",
+        "outputPath": "C:\\Clients\\TTD\\Projects\\AreaOutputCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

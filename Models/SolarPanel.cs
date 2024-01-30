@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AreaOutputCalculator.Models
 {
-    internal class SolarPanel
+    public class SolarPanel
     {
         public SolarPanel(int length, int width, int outputPerUnitArea)
         {
